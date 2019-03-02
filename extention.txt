@@ -1,0 +1,5 @@
+#The enigma Machine implement
+https://www.turing.org.uk/book/update/tmjavar.html
+
+#Alan Turing Archive 
+http://www.turingarchive.org/browse.php/A
